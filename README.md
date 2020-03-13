@@ -1,3 +1,3 @@
 # badall
 
-modern development subject
+web management
