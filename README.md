@@ -1,3 +1,3 @@
 # badall
 
-we will rock you
+modern web development
