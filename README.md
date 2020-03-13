@@ -1,3 +1,3 @@
 # badall
 
-modern web development
+modern development
