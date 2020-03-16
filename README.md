@@ -1,3 +1,3 @@
 # badall
 
-eiuhdid
+some of you
