@@ -1,3 +1,3 @@
 # badall
 
-microsoft edge
+some of you are bad.
